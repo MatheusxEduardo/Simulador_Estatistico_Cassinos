@@ -1,12 +1,25 @@
-# Simulador-Cassinos-JS
-Este projeto é uma aplicação web interativa que simula jogos de cassino, permitindo aos usuários entender melhor a dinâmica e as probabilidades associadas aos jogos de azar. Utiliza JavaScript, HTML5 e CSS3 juntamente com a biblioteca Chart.js para visualizar os resultados das simulações em gráficos dinâmicos.
-Funcionalidades
-Simulação de Jogos de Cassino: Simula rodadas de um jogo de cassino onde os usuários podem definir o número de jogadores, saldo inicial, valor da aposta, e a porcentagem de vitória da máquina.
-Visualização Gráfica: Exibe os resultados de cada rodada em um gráfico interativo, permitindo aos usuários alternar entre gráficos de linha e de barra.
-Controle Total sobre a Simulação: Os usuários podem iniciar, pausar, continuar e resetar a simulação a qualquer momento.
-Ajuste de Configurações: Permite aos usuários ajustar as configurações da simulação, como saldo inicial, porcentagem da máquina, valor da aposta, e número de rodadas.
-Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript (ES6+)
-Chart.js: Utilizado para criar gráficos interativos que mostram o progresso da simulação.
+# Simulador Estatístico de Cassinos
+
+Uma aplicação web interativa que simula jogos de cassino, permitindo aos usuários explorar probabilidades e dinâmicas de jogos de azar. Utiliza JavaScript, HTML5, CSS3 e a biblioteca Chart.js para visualização de resultados em gráficos dinâmicos.
+
+## Funcionalidades
+- **Simulação de Jogos de Cassino**: Simule rodadas com parâmetros configuráveis, como número de jogadores, saldo inicial, valor da aposta e porcentagem de vitória da máquina.
+- **Visualização Gráfica**: Exiba resultados em gráficos interativos (linha ou barra) usando Chart.js.
+- **Controle da Simulação**: Inicie, pause, continue ou reinicie a simulação a qualquer momento.
+- **Configurações Ajustáveis**: Personalize saldo inicial, porcentagem da máquina, valor da aposta e número de rodadas.
+
+## Tecnologias Utilizadas
+- **HTML5**: Estrutura da interface.
+- **CSS3**: Estilização da aplicação.
+- **JavaScript (ES6+)**: Lógica da simulação.
+- **Chart.js**: Geração de gráficos interativos.
+
+## Pré-requisitos
+- Navegador web moderno (Chrome, Firefox, Edge, etc.).
+- Node.js (opcional, para gerenciar dependências como Chart.js).
+- Conexão à internet (para carregar Chart.js via CDN, se não instalado localmente).
+
+## Instalação
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/MatheusxEduardo/Simulador_Estatistico_Cassinos.git
